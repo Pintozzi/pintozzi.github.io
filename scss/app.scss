@@ -38,3 +38,19 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
+
+div.header {
+  background-image:url('http://192.241.141.224/wp-content/uploads/2014/02/cropped-two_hawks_blue2.png');
+  background-size:cover;
+  width: 100%;
+  max-width:100%;
+  .columns {
+    h1 {
+      padding:40px;
+      color:#eee;
+    }
+  }
+}
+.center {
+  text-align:center;
+}
